@@ -1,0 +1,29 @@
+.img-card{
+    height: 200px;
+    width: 160px;
+
+}
+
+.bg-container{
+    background-color:azure;
+    height:100vh;
+    background-size: cover;
+}
+
+.bg-heading{
+    text-align: center;
+    font-family: "Roboto";
+    font-weight:500;
+}
+
+.bg-infomation{
+    font-family: "Roboto";
+    text-align: left;
+    
+}
+
+.bg-card-heading{
+    text-align:left;
+    font-family: "Roboto";
+    color:green;
+}
